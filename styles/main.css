@@ -16,7 +16,11 @@ html body{
     margin: 0;
     padding: 0;
 }    
-
+html{
+    background-image:url("../images/bats.gif");
+    background-repeat: repeat;
+    
+}
 
 
 /*Code to set the text size and format.*/
