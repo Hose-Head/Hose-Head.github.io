@@ -1,0 +1,99 @@
+/*Joel Starzynski
+5954797
+PROG1247-18W-Sec1-IT Support Web Foundations
+Sean Yo
+Assignment #1
+February 9, 2018*/
+
+header{
+    border-bottom: 1px solid black;
+    height: 50%;
+    border-width: thick;
+   background:linear-gradient(45deg, white 0%, orange 75%, black 100%);
+}
+html{
+    background-image:url("../images/bats.gif");
+    background-repeat: repeat;
+    
+}
+html body{
+    margin: 0;
+    padding: 0;
+}    
+
+
+
+/*Code to set the text size and format.*/
+body{
+  font-family: Arian, sans-serif;
+  font-size: 100%;
+  width: 800px;
+  
+background-color: white;
+
+    margin:0 auto;
+
+  border: 5px solid black;
+  box-shadow : 20px 20px 20px 20px black;
+    
+}
+main{
+    width: 640px;
+    float: right;
+    margin: auto;
+
+}
+/*Code to set size of header h2 text and colour.  Shading was also added.*/
+header h2
+{
+    font-size: 300%;
+}
+
+/*Code to set position of header image.*/
+header img {
+    float: left;
+    margin-right: 1em;
+}
+
+/*Code to set h3 position.*/
+header h3
+{margin-left: 5em}
+
+/*Code to set first letter of header as a larger size*/
+h1::first-letter
+    {font-size: 200%}
+div{
+    width: 160px;
+    float: left;
+    
+}
+main a{
+    display: block;
+
+}
+
+/*Code to set color of links as well as set vertical spacing of links.*/
+a:link{
+    font-weight: bold;
+    color: orange;
+    line-height: 1.5em;
+    }
+
+/*Code to set color of links when hovered over.*/
+a:hover{
+    color: green}
+    
+/*Code to centre footer text as well as change the text size.*/
+footer 
+    {clear: both;
+        font-size: 80%;
+    text-align: center;
+border-top: 1px solid black;
+border-width: thick;
+background:linear-gradient(45deg, black 0%, orange 75%, white 100%);}
+
+
+
+
+
+
