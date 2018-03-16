@@ -11,11 +11,7 @@ header{
     border-width: thick;
    background:linear-gradient(45deg, white 0%, orange 75%, black 100%);
 }
-html{
-    background-image:url("../images/bats.gif");
-    background-repeat: repeat;
-    
-}
+
 html body{
     margin: 0;
     padding: 0;
