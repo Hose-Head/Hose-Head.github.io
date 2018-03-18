@@ -19,10 +19,10 @@ html body{
 body{
     background-image:url("../images/bats.gif");
     background-repeat: repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: repeat;
+    -moz-background-size: repeat;
+    -o-background-size: repeat;
+    background-size: repeat;
     
 }
 
