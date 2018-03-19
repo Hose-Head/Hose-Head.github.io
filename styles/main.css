@@ -7,7 +7,7 @@ February 9, 2018*/
 
 header{
     border-bottom: 1px solid black;
-    height: 50%;
+    height: 100%;
     border-width: thick;
    background:linear-gradient(45deg, white 0%, orange 75%, black 100%);
     background-size:cover;
