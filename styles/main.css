@@ -31,7 +31,7 @@ body{
   font-size: 100%;
   width: 800px;
   background-color: white;
-  margin:0 auto;
+  margin:auto;
   float:right 2em;
   border: 5px solid black;
   box-shadow : 20px 20px 20px 20px black;
