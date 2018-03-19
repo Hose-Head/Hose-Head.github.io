@@ -18,14 +18,9 @@ html body{
     padding: 0;
     background-colour: white;
 }    
-body{
+html{
     background-image:url("../images/bats.gif");
-    background-repeat: repeat;
-    z-index: -999;
-    -webkit-background-size: repeat;
-    -moz-background-size: repeat;
-    -o-background-size: repeat;
-    background-size: repeat;
+
     
 }
 
