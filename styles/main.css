@@ -10,6 +10,7 @@ header{
     height: 50%;
     border-width: thick;
    background:linear-gradient(45deg, white 0%, orange 75%, black 100%);
+    background-size:cover;
 }
 
 html body{
