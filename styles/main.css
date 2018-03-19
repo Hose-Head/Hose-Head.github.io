@@ -18,7 +18,7 @@ html body{
     padding: 0;
     background-colour: white;
 }    
-body{
+body:not{
     background-image:url("../images/bats.gif");
     background-repeat: repeat;
     z-index: -999;
