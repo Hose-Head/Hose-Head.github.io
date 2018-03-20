@@ -90,7 +90,8 @@ footer
 border-top: 1px solid black;
 border-width: thick;
 background:linear-gradient(45deg, black 0%, orange 75%, white 100%);}
-
+footer p{
+    margin-bottom: 0px;}
 
 
 
