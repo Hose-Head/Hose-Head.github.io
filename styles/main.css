@@ -12,7 +12,8 @@ header{
    background:linear-gradient(45deg, white 0%, orange 75%, black 100%);
     background-size:cover;
 }
-
+header h2{
+    margin-bottom: 0px;}
 html body{
     margin: auto;
     padding: 0;
